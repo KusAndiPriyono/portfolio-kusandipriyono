@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://kusandipriyono.github.io/portfolio_kusandipriyono",
+  "homepage": "https://KusAndiPriyono.github.io/portfolio_kusandipriyono",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://kusandipriyono.github.io/portfolio_kusandipriyono'",
+    "build-gh": "parcel build --public-url 'https://KusAndiPriyono.github.io/portfolio_kusandipriyono'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
